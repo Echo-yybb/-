@@ -1,7 +1,7 @@
 '''我们的首页'''
 import streamlit as st
 
-st.write(':orange[:sunglasses: PythonXXX班级的根据地 :sunglasses:]')
+st.write(':orange[:sunglasses: 爱可老师班级的根据地 :sunglasses:]')
 
 st.image("logo.png")
 st.write('-----------------------------------------------')
